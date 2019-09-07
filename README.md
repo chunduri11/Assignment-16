@@ -9,3 +9,5 @@ Step 2 and 3 are done if the jupyter notebook is executed.
 
 
 In the upcoming Assignments, I will update the input data pipeline with efficinet and fast loading and with better understanding of how the pipeline works.
+
+Changing numer of layers per dense block to 8 and number of kernels to 20 gives the accuracy above 85%
